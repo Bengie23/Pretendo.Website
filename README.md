@@ -1,4 +1,4 @@
-# Pretendo Website 🐼
+# Pretendo Website 🐼 
 ## We are excited to introduce Pretendo to your software development life cycle!
 
 # What is Pretendo App for?
