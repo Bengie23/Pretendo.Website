@@ -4,8 +4,28 @@
 # What is Pretendo App for?
 Pretendo App is small, but cool http mock server that runs locally by catching http calls from your local network and preventing them to reach out the internet. 
 
+# Resources
+<details>
+<summary>Pretendo Frontend</summary>
+
+This is the [repository](https://github.com/Bengie23/Pretendo_Frontend) for the Pretendo Frontend, developed with **rust** and [egui](https://github.com/emilk/egui)/[eframe](https://github.com/emilk/egui/tree/master/crates/eframe)
+ 
+</details>
+<details>
+<summary>Pretendo Backend</summary>
+
+This is the  [repository](https://github.com/Bengie23/Pretendo.Backend) for the Pretendo Backend, developed with **C#** and [net core 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+ 
+</details>
+<details>
+<summary>Pretendo Launcher</summary>
+
+This is the  [repository](https://github.com/Bengie23/Pretendo.Launcher) for the Pretendo Launcher, developed with **powershell** and **batch**
+ 
+</details>
+
 # So is yet just another mock server?
-Nope! Pretendo is quite unique, instead of deploying this mock server somewhere, and requiring you to update your code so that you replace the API URLs you need for something like: localhost://yourmock/anypath (or any other url for mocks deployed in the cloud). With Pretendo running locally you can keep using the same API URLs you use in production, let pretendo take care of your mocks, everything else remains the same.
+Nope! Pretendo is quite unique, instead of deploying this mock server somewhere, and requiring you to update your code so that you replace the API URLs you need for something like: `localhost://yourmock/anypath` (or any other url for mocks deployed in the cloud). With Pretendo running locally you can keep using the same API URLs you use in production, let pretendo take care of your mocks, everything else remains the same.
 
 # What does it mean to run locally?
 It means that you no longer need to setup any mock calls in your code/tests. 
