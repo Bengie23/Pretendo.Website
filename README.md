@@ -48,21 +48,19 @@ When we call this endpoint we get the mock response rather than the real respons
 ![image](https://github.com/user-attachments/assets/c6985675-d85f-4a70-90b7-979c3ab4f1d1)
 
 # Resources
-> [!TIP]
 > **Pretendo Frontend**
 > 
 > This is the [repository](https://github.com/Bengie23/Pretendo_Frontend) for the Pretendo Frontend, developed with **rust** and [egui](https://github.com/emilk/egui)/[eframe](https://github.com/emilk/egui/tree/master/crates/eframe)
 
-> [!TIP]
 > **Pretendo Backend**
 > 
 > This is the  [repository](https://github.com/Bengie23/Pretendo.Backend) for the Pretendo Backend, developed with **C#**, [net core 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and **powershell**
 
-> [!TIP]
 > **Pretendo Launcher**
 > 
 > This is the  [repository](https://github.com/Bengie23/Pretendo.Launcher) for the Pretendo Launcher, developed with **powershell** and **batch** (only for development purposes)
 
 > [!WARNING]
 > I call Pretendo App to what you get when you run frontend and backend together, mostly because in the future, I plan to release *backend only* and *frontend only* functionalities.
-> 
+
+*© Project started in Oct - 2024*
