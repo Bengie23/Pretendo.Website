@@ -1,6 +1,5 @@
-# Pretendo Website 🐼 
-No more rework when mocking the API calls you do from your code!
-## I am excited to introduce Pretendo to your software development life cycle!
+<p style="text-align:center">I am excited to introduce Pretendo to your software development life cycle! <br/>
+No more rework when mocking the API calls you do from your code! </p>
 
 # What is Pretendo App for?
 Pretendo App is small, but cool http mock server that runs locally by catching http calls from your local network and preventing them to reach out the internet. 
