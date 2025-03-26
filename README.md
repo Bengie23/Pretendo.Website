@@ -1,28 +1,9 @@
 # Pretendo Website 🐼 
+No more rework when mocking the API calls you do from your code!
 ## We are excited to introduce Pretendo to your software development life cycle!
 
 # What is Pretendo App for?
 Pretendo App is small, but cool http mock server that runs locally by catching http calls from your local network and preventing them to reach out the internet. 
-
-# Resources
-<details>
-<summary>Pretendo Frontend</summary>
-
-This is the [repository](https://github.com/Bengie23/Pretendo_Frontend) for the Pretendo Frontend, developed with **rust** and [egui](https://github.com/emilk/egui)/[eframe](https://github.com/emilk/egui/tree/master/crates/eframe)
- 
-</details>
-<details>
-<summary>Pretendo Backend</summary>
-
-This is the  [repository](https://github.com/Bengie23/Pretendo.Backend) for the Pretendo Backend, developed with **C#** and [net core 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
- 
-</details>
-<details>
-<summary>Pretendo Launcher</summary>
-
-This is the  [repository](https://github.com/Bengie23/Pretendo.Launcher) for the Pretendo Launcher, developed with **powershell** and **batch**
- 
-</details>
 
 # So is yet just another mock server?
 Nope! Pretendo is quite unique, instead of deploying this mock server somewhere, and requiring you to update your code so that you replace the API URLs you need for something like: `localhost://yourmock/anypath` (or any other url for mocks deployed in the cloud). With Pretendo running locally you can keep using the same API URLs you use in production, let pretendo take care of your mocks, everything else remains the same.
@@ -66,3 +47,23 @@ By setting up the needed mocks before hand using Pretendo App
 ![image](https://github.com/user-attachments/assets/7e009ac0-bacf-4267-af82-8d919db2bb94)
 When we call this endpoint we get the mock response rather than the real response
 ![image](https://github.com/user-attachments/assets/c6985675-d85f-4a70-90b7-979c3ab4f1d1)
+
+# Resources
+> [!TIP]
+> **Pretendo Frontend**
+> 
+> This is the [repository](https://github.com/Bengie23/Pretendo_Frontend) for the Pretendo Frontend, developed with **rust** and [egui](https://github.com/emilk/egui)/[eframe](https://github.com/emilk/egui/tree/master/crates/eframe)
+
+> [!TIP]
+> **Pretendo Backend**
+> 
+> This is the  [repository](https://github.com/Bengie23/Pretendo.Backend) for the Pretendo Backend, developed with **C#**, [net core 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and **powershell**
+
+> [!TIP]
+> **Pretendo Launcher**
+> 
+> This is the  [repository](https://github.com/Bengie23/Pretendo.Launcher) for the Pretendo Launcher, developed with **powershell** and **batch** (only for development purposes)
+
+> [!WARNING]
+> I call Pretendo App to what you get when you run frontend and backend together, mostly because in the future, I plan to release *backend only* and *frontend only* functionalities.
+> 
