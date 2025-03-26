@@ -60,7 +60,6 @@ When we call this endpoint we get the mock response rather than the real respons
 > 
 > This is the  [repository](https://github.com/Bengie23/Pretendo.Launcher) for the Pretendo Launcher, developed with **powershell** and **batch** (only for development purposes)
 
-> [!WARNING]
-> I call Pretendo App to what you get when you run frontend and backend together, mostly because in the future, I plan to release *backend only* and *frontend only* functionalities.
+> **Note:** I call Pretendo App to what you get when you run frontend and backend together, mostly because in the future, I plan to release *backend only* and *frontend only* functionalities.
 
 *© Project started in Oct - 2024*
